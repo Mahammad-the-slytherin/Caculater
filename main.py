@@ -9,5 +9,3 @@ elif opr == "-":
     print(num1 - num2)
 elif opr == "*":
     print(num1 * num2)
-else:
-    print("invalid operation ")
